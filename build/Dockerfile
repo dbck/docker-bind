@@ -1,4 +1,4 @@
-FROM debian:10.9
+FROM debian:12.10
 
 LABEL maintainer "Dennis Boeckmann <dev@dbck.de>"
 LABEL description "This image has just bind for dns resolution installed."
